@@ -9,4 +9,6 @@
 
 Практические работы (
 
-['1 практическая работа'](https://github.com/Moglaman/PDA_SOL/blob/main/1pr.ipynb) )
+['1 практическая работа'](https://github.com/Moglaman/PDA_SOL/blob/main/1pr.ipynb) 
+
+['2 практическая работа'](https://github.com/Moglaman/PDA_SOL/blob/main/practice.ipynb) )
