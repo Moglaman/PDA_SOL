@@ -15,5 +15,5 @@
 
 ['2 практическая работа'](https://github.com/Moglaman/PDA_SOL/blob/main/practice.ipynb)
 
-['3.1 практическая работа'](https://github.com/Moglaman/PDA_SOL/blob/main/practice.ipynb)
+['3.1 практическая работа'](https://github.com/Moglaman/PDA_SOL/blob/main/01_Symbolic_mathematics_with_Sympy.ipynb)
 ['3.2 практическая работа'](https://github.com/Moglaman/PDA_SOL/blob/main/practice.ipynb))
