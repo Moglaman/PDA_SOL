@@ -7,7 +7,9 @@
 
 ['3 лаб работа'](https://github.com/Moglaman/PDA_SOL/blob/main/hw-3-pandas.ipynb) 
 
-['4 лаб работа'](https://github.com/Moglaman/PDA_SOL/blob/main/hw-4-visualisation.ipynb) )
+['4 лаб работа'](https://github.com/Moglaman/PDA_SOL/blob/main/hw-4-visualisation.ipynb)
+
+['5 лаб работа'](https://github.com/Moglaman/PDA_SOL/blob/main/lab.ipynb))
 
 Практические работы (
 
