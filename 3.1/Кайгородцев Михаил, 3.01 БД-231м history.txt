@@ -1,0 +1,50 @@
+[cloudera@quickstart ~]$ history
+    1  help
+    2  hdfs dfs -ls
+    3  hdfs dfs -ls /
+    4  hdfs dfs mkdir /user/mgpu/kaygorodcev
+    5  hdfs dfs -mkdir /user/mgpu/kaygorodcev
+    6  hdfs dfs -mkdir /user/mgpu
+    7  hdfs dfs -mkdir /user/mgpu/kaygorodcev
+    8  base64 /dev/urandom | head -c 10000000 > kaygorodcev.txt 
+    9  gzip -c kaygorodev.txt > kaygorodcev.gz 
+   10  gzip -c kaygorodcev.txt > kaygorodcev.gz 
+   11  hdfs dfs -copyfromLocal kaygorodcev.txt /user/mgpu/kaygorodcev
+   12  hdfs dfs -copyFromLocal kaygorodcev.txt /user/mgpu/kaygorodcev
+   13  cat kaygorodcev.txt
+   14  cat -n kaygorodcev.txt
+   15* cat kaygorodcev.txtSSs
+   16  cat -n kaygorodcev.txt
+   17  head kaygorodcev.txt
+   18  tail kaygorodcev.txt
+   19  cp kaygorodcev.txt 08.04.2024_kaygorodcev.txt
+   20  ls
+   21  hdfs dfs -cp /user/mgpu/kaygorodcev/kaygorodcev.txt /user/mgpu/kaygorodcev/08.04.2024_kaygorodcev.txt
+   22  hdfs dfs -ls /user/mgpu/kaygorodcev
+   23  hdfs dfs -rm -R /user/mgpu/kaygorodcev
+   24  base64 /dev/urandom 
+   25  base64 /dev/urandom | head -c 137000000 >08.04.2024_new_kaygorodcev.txt
+   26  hdfs dfs -mkdir /user/kaygorodcev
+   27  hdfs dfs -copyFromLocal 08.04.2024_new_kaygorodcev.txt /user/mgpu/kaygorodcev
+   28  hdfs dfs -mkdir /user/mgpu/kaygorodcev
+   29  hdfs dfs -mkdir /user/mgpu
+   30  hdfs dfs -mkdir /user/mgpu/
+   31  hdfs dfs -mkdir /user/mgpu/kaygorodcev
+   32  hdfs dfs -rm -R /user/mgpu/kaygorodcev
+   33  hdfs dfs -mkdir /user/mgpu/kaygorodcev
+   34  hdfs dfs -copyFromLocal 08.04.2024_new_kaygorodcev.txt /user/mgpu/kaygorodcev
+   35  yarn jar /usr/lib/hadoop-mapreduce/hadoop-mapreduce-examples.jar wordcount /user/mgpu/kaygorodcev/08.04.2024_new_kaygorodcev.txt /user/mgpu/kaygorodcev/output
+   36  wget https://github.com/BosenkoTM/cloudera-quickstart/blob/main/data/athlete.snappy.parquet
+   37  ls
+   38  hdfs dfs -mkdir /user/cloudera/athlete/
+   39  wget -P ~/user/cloudera/athlete/ https://github.com/BosenkoTM/cloudera-quickstart/blob/main/data/athlete.snappy.parquet
+   40  wget -P /user/cloudera/athlete/ https://github.com/BosenkoTM/cloudera-quickstart/blob/main/data/athlete.snappy.parquet
+   41  wget https://disk.yandex.ru/d/JrboaizPXSh0Mg
+   42  ls
+   43  uzip babs_open_data_year_1.zip 
+   44  apt-get install zip
+   45  uzip babs_open_data_year_1.zip 
+   46  start-all.sh
+   47  sudo unzip babs_open_data_year_1.zip 
+   48  history
+[cloudera@quickstart ~]$ 
