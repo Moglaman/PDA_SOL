@@ -22,7 +22,7 @@
 
 
 Лабораторные работы. 2 семестр
-['1 работа DASK'](https://github.com/Moglaman/PDA_SOL/blob/main/ПР_1_Работа_с_большими_данными.ipynb) 
+['1 работа DASK'](https://github.com/Moglaman/PDA_SOL/blob/main/ПР_1_Работа_с_большими_данными_Кайгородцев_Михаил.ipynb) 
 
 Лабораторные работы data engineering
 
